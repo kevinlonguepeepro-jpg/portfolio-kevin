@@ -1,0 +1,26 @@
+{
+  "title": "Compétences",
+  "subtitle": "Des outils maîtrisés au service de la créativité.",
+  "categories": [
+    {
+      "name": "Design & Illustration",
+      "icon": "✦",
+      "skills": ["Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign", "Figma"]
+    },
+    {
+      "name": "Photo & Vidéo",
+      "icon": "◈",
+      "skills": ["Adobe Lightroom", "Adobe Premiere Pro", "After Effects", "Photographie"]
+    },
+    {
+      "name": "Communication",
+      "icon": "◎",
+      "skills": ["Stratégie de contenu", "Réseaux sociaux", "Identité visuelle", "Miniatures"]
+    },
+    {
+      "name": "Web & Autres",
+      "icon": "⬡",
+      "skills": ["HTML / CSS", "WordPress", "Canva", "Notion"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "À propos",
+  "bio": [
+    "Passionné par la création visuelle et la communication digitale, j'ai obtenu mon BUT MMI (Métiers du Multimédia et de l'Internet) en développant une expertise solide en design graphique, photographie et production de contenu.",
+    "En parallèle de ma formation, je mène des projets personnels et freelance : miniatures YouTube, identités visuelles, retouche photo, et bien plus encore."
+  ],
+  "photo": "/images/profil.jpg",
+  "adobePortfolio": "https://kevinlonguepee01481.myportfolio.com/",
+  "stats": [
+    { "value": "BUT MMI", "label": "Formation" },
+    { "value": "3+", "label": "Années d'expérience" },
+    { "value": "20+", "label": "Projets réalisés" }
+  ]
+}
