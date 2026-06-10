@@ -63,13 +63,17 @@
     },
     {
       "id": 4,
-      "title": "Affiche événementielle",
+      "title": "Création visuelle",
       "category": "Print",
       "description": "Design d'affiche et de cover - Evenements, Sports, Musique.",
       "cover": "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/476521e4-0aa5-445f-9213-164d29974525_rw_1920.png?h=e5d566e15721e83d69bbab292ba2ef98",
       "images": [
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/476521e4-0aa5-445f-9213-164d29974525_rw_1920.png?h=e5d566e15721e83d69bbab292ba2ef98",
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/1e3ac99a-8d6e-40b1-8a34-6b1a262b4a22.png?h=e3af82c612c3d34b1d44cbad3ac71777",
+        "/images/cover_1.jpg",
+        "/images/cover_2.jpg",
+        "/images/cover_3.jpg",
+        "/images/cover_4.jpg",
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/e2428110-4724-4c2a-9990-9fbf72d26bdc_rw_1920.jpeg?h=fdcc1a1474ad17f29dbf5b7afdee3fac",
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/659f7227-119c-4fc1-b626-356d9b8e4c33_rw_1200.png?h=3f5aa29b89764f58cf3218b92b75d0b0",
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/9ef8408b-4988-493a-9800-93bff8643c7c_rw_1200.png?h=0052b05648be5fd2d9d0e0d4f2d01434",
