@@ -4,8 +4,8 @@
   "items": [
     {
       "id": 1,
-      "title": "Identité visuelle",
-      "category": "Branding",
+      "title": "Eduk ton chien",
+      "category": "Identité visuelle",
       "description": "Création complète d'une identité visuelle pour une marque locale.",
       "cover": "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/49b41255-ceb0-4ec7-8318-721013082375_rw_600.png?h=803e4275fa9364210cb21457f6d00454",
       "images": [
@@ -86,6 +86,22 @@
         "https://cdn.myportfolio.com/a629a3c2-2c7f-450d-9e5e-19f3a2defe16/d710830c-d15f-46f3-a9ef-a06298e7528f_rw_1200.JPG?h=fd4fcbd110f1fae81bf6cda1659de6f1"
       ],
       "tags": ["Photoshop", "Figma"]
+    },
+    {
+      "id": 6,
+      "title": "6Sea",
+      "category": "Identité visuelle",
+      "description": "Création d'un média en ligne.",
+      "cover": "/images/6scroll.jpg",
+      "images": [
+        "/images/Artboard_1.jpg",
+        "/images/Artboard_2.jpg",
+        "/images/Artboard_3.jpg",
+        "/images/Artboard_4.jpg",
+        "/images/Artboard_5.jpg",
+        "/images/Artboard_7.jpg"
+      ],
+      "tags": ["Photoshop", "Illustrator"]
     }
   ]
 }
