@@ -2,6 +2,13 @@
   "title": "Parcours",
   "subtitle": "Formation et expériences qui ont forgé mon regard.",
   "experiences": [
+     {
+      "period": "Présent",
+      "type": "Freelance",
+      "title": "Designer graphique",
+      "organization": "Indépendant · À distance",
+      "description": "Création de supports web/print (posters, publications RS, miniatures YouTube…). Collaborations avec des médias, sportifs et créateurs de contenu. Gestion de projet."
+    },
     {
       "period": "2024",
       "type": "Stage",
@@ -30,13 +37,7 @@
       "organization": "Ptipot' · Ruitz",
       "description": "Déclinaison de supports web/print pour une marque animée. Mise en place de fiches pédagogiques adaptées à tous."
     },
-    {
-      "period": "2020 – Présent",
-      "type": "Freelance",
-      "title": "Designer graphique",
-      "organization": "Indépendant · À distance",
-      "description": "Création de supports web/print (posters, publications RS, miniatures YouTube…). Collaborations avec des médias, sportifs et créateurs de contenu. Gestion de projet."
-    }
+   
   ],
   "formations": [
     {
