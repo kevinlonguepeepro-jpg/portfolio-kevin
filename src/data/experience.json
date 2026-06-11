@@ -2,7 +2,7 @@
   "title": "Parcours",
   "subtitle": "Formation et expériences qui ont forgé mon regard.",
   "experiences": [
-     {
+    {
       "period": "Sept. 2020 – Présent",
       "type": "Freelance",
       "title": "Designer graphique",
@@ -36,8 +36,7 @@
       "title": "Chargé de communication",
       "organization": "Ptipot' · Ruitz",
       "description": "Déclinaison de supports web/print pour une marque animée. Mise en place de fiches pédagogiques adaptées à tous."
-    },
-   
+    }
   ],
   "formations": [
     {
